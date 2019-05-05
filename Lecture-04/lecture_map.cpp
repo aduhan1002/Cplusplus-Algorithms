@@ -1,0 +1,9 @@
+- XOR Profit Trick
+- ACODE- Recursive Approach, Backtracking basics
+- N Queen - all 3 approaches & Complexity analysis
+- Permuation(T), Sudoku(T),Rat In a Maze(T)
+- HW - MKJUMPS(Spoj), Knights Move(GFG)
+- Binary Search(Divide & Conquer)
+- Upper Lower Bound, Kth Root, Pivot Element
+- Binary Search on Monotonic Functions, AGGRCOWS(spoj), PRATA(Spoj)
+- See assignment for more problems
